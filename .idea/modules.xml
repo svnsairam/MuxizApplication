@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MusizApplication/MusizApplication.iml" filepath="$PROJECT_DIR$/MusizApplication/MusizApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Muzix Application.iml" filepath="$PROJECT_DIR$/.idea/Muzix Application.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MuzixApplicationUsingMongoDB/MuzixApplicationUsingMongoDB.iml" filepath="$PROJECT_DIR$/MuzixApplicationUsingMongoDB/MuzixApplicationUsingMongoDB.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-config-server/spring-config-server.iml" filepath="$PROJECT_DIR$/spring-config-server/spring-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-proxy/zuul-proxy.iml" filepath="$PROJECT_DIR$/zuul-proxy/zuul-proxy.iml" />
     </modules>
   </component>
 </project>

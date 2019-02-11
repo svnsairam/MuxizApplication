@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/spring-config-server/pom.xml" />
         <option value="$PROJECT_DIR$/MuzixApplicationUsingMongoDB/pom.xml" />
+        <option value="$PROJECT_DIR$/MusizApplication/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-proxy/pom.xml" />
       </list>
     </option>
   </component>
